@@ -1,0 +1,17 @@
+.form_control{
+    display: flex;
+    justify-content: end;
+}
+
+.btn{
+    background-color: #222;
+    color: white;
+    padding: .7em 1em;
+    text-decoration: none;
+    transition: .2s;
+    cursor: pointer;
+    border-radius: 3px;
+    border: none;
+}
+
+.btn:hover{ color: #ffbb33;}
